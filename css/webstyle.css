@@ -1,0 +1,68 @@
+
+
+h3{
+    color: #5bc0de;
+}
+.timkiem{
+    color: #fff;
+    background: #f19318;
+    width: 100px;
+    height: 30px;
+    border: 1px solid #B9B5B5;
+    margin-left: -105px;
+    text-transform: uppercase;
+    
+   
+}
+
+.navbar-default .navbar-nav>li>a{
+    color: #000;
+    text-transform: uppercase;
+}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus{
+    color: #000;
+    
+}
+.search{
+    border: 1px solid #BEBEBE;
+    
+    width: 400px;
+    height: 35px;
+    padding: 10px;
+}
+.btn_tab_select a.active {
+    color: #fff;
+    background: #f19318;
+    border: 1px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+
+.btn_tab_select a {
+    padding: 10px;
+    font-size: 14px;
+    color: #333333;
+    text-align: center;
+text-decoration: none;
+}
+hr {
+    border: 0;
+    color:  #009ae1;
+    background-color:  #009ae1;
+    height: 1px;
+    width: 100%;
+    text-align: left;
+    }
+.TenBH{
+    margin-top: 10px;
+
+}
+.TenCS{
+    margin-top:-5px;
+    color: #5a5656;
+}
+.list-group .list-group-item{
+    background-color: #009ae1;
+    color: #000;
+}
